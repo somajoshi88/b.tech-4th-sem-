@@ -1,0 +1,18 @@
+
+"Front end networking" typically refers to the networking-related tasks and functionality that are handled on the client-side or front end of a web application or software system. This involves communication between the client (usually a web browser) and various network resources, such as servers or external APIs, to exchange data and perform tasks. Front end networking is crucial for enabling interactive and dynamic web applications that can fetch and update data in real-time.
+
+Key aspects of front end networking include:
+
+HTTP Requests: Front end networking involves making HTTP requests from the client to the server to fetch data or interact with server-side resources. This includes sending requests for web pages, images, scripts, stylesheets, or data from APIs.
+
+AJAX (Asynchronous JavaScript and XML): AJAX is a technique used in web development to make asynchronous HTTP requests from the client to the server without reloading the entire web page. It allows for dynamic updating of content on the web page without interrupting the user's experience.
+
+Fetching Data: Front end networking involves fetching data from external APIs or servers to populate the user interface with dynamic content. This can include retrieving data in JSON or XML format and processing it to display relevant information to the user.
+
+WebSocket Communication: WebSocket is a communication protocol that provides full-duplex communication channels over a single TCP connection. It enables real-time bidirectional communication between the client and server, allowing for interactive features such as live chat, notifications, and real-time updates.
+
+Handling Responses: Front end networking also involves handling responses received from the server after making requests. This includes parsing and processing data returned in various formats (such as JSON or XML) and updating the user interface accordingly.
+
+Network Error Handling: Handling network errors and timeouts is an essential aspect of front end networking. This involves implementing error handling mechanisms to gracefully manage network failures, display error messages to the user, and retry failed requests when possible.
+
+Overall, front end networking plays a crucial role in enabling the interactive and dynamic behavior of modern web applications by facilitating communication between the client-side code running in the user's browser and various network resources.
