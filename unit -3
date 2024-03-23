@@ -184,7 +184,37 @@ promise.then((result) => {
   // Rejected state
 });
 Promises provide a more structured and readable way to work with asynchronous code compared to traditional callback-based approaches. They are widely used in modern JavaScript for handling asynchronous tasks such as fetching data from a server, reading files, or making HTTP requests. Additionally, Promises are the foundation of other asynchronous programming features in JavaScript, such as async/await.
+*******************************************************************************************************************************************
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Make Things Clear: Ensure that everything on your website is easy to see and understand. Use clear headings, simple language, and descriptive links.
+
+Easy to Use: Make your website easy to navigate and interact with. Users should be able to move around using just their keyboard if they can't use a mouse.
+
+Everyone Included: Design your website so that everyone can use it, including people with disabilities. Use features like alt text for images, which describes what the image shows, so that people who can't see it can still understand.
+
+Think About Different Devices: Make sure your website works well on different devices, like phones and tablets, as well as on computers. This helps people with different needs access your site more easily.
+
+Keep It Simple: Try to keep your website simple and organized. This makes it easier for everyone to find what they need and understand how to use your site.
 
 
 
