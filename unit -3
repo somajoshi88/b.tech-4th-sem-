@@ -184,28 +184,8 @@ promise.then((result) => {
   // Rejected state
 });
 Promises provide a more structured and readable way to work with asynchronous code compared to traditional callback-based approaches. They are widely used in modern JavaScript for handling asynchronous tasks such as fetching data from a server, reading files, or making HTTP requests. Additionally, Promises are the foundation of other asynchronous programming features in JavaScript, such as async/await.
-*******************************************************************************************************************************************
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+***************************************************************************************************************************************
+Web Accessibility Fundamentals
 Make Things Clear: Ensure that everything on your website is easy to see and understand. Use clear headings, simple language, and descriptive links.
 
 Easy to Use: Make your website easy to navigate and interact with. Users should be able to move around using just their keyboard if they can't use a mouse.
@@ -215,6 +195,35 @@ Everyone Included: Design your website so that everyone can use it, including pe
 Think About Different Devices: Make sure your website works well on different devices, like phones and tablets, as well as on computers. This helps people with different needs access your site more easily.
 
 Keep It Simple: Try to keep your website simple and organized. This makes it easier for everyone to find what they need and understand how to use your site.
+**************************************************************************************************************************************************
+Mobile accessibility 
+
+Refers to the practice of ensuring that mobile applications and websites are usable by people with disabilities on mobile devices such as smartphones and tablets. With the increasing popularity of mobile devices, it's essential to consider accessibility when designing and developing mobile applications to ensure that everyone, regardless of their abilities, can access and use them effectively.
+
+Here are some key aspects of mobile accessibility:
+
+Responsive Design: Design mobile applications and websites with responsive layouts that adapt to different screen sizes and orientations. Ensure that content is displayed properly and that interactive elements are easily accessible on smaller screens.
+
+Touch Accessibility: Make sure that touch-based interactions, such as tapping, swiping, and pinching, are accessible to users with disabilities. Provide sufficient touch target sizes and spacing to accommodate users with limited dexterity or motor control. Avoid relying solely on gestures that may be difficult for some users to perform.
+
+Screen Reader Compatibility: Test mobile applications and websites with screen reader software, such as VoiceOver (iOS) or TalkBack (Android), to ensure compatibility and proper announcement of content and controls. Use semantic HTML elements, ARIA attributes, and proper labeling to provide meaningful information and navigation cues to screen reader users.
+
+Keyboard Accessibility: Ensure that mobile applications and websites can be navigated and operated using only the keyboard, without relying on touch-based interactions. Provide keyboard shortcuts and access keys for commonly used actions and features. Test keyboard accessibility with physical keyboards and keyboard emulation tools.
+
+Text Size and Contrast: Allow users to adjust text size and contrast settings to accommodate their preferences and needs. Use high-contrast color schemes and provide options for adjusting text and background colors to improve readability for users with low vision or color vision deficiencies.
+
+Alternative Input Methods: Consider supporting alternative input methods, such as voice input and gesture recognition, to accommodate users with disabilities who may have difficulty using touch or keyboard input. Provide options for customization and personalization to meet the diverse needs of users.
+
+Accessible Media and Content: Ensure that multimedia content, such as images, videos, and audio, is accessible to users with disabilities. Provide alternative text for images, captions and transcripts for videos, and text equivalents for audio content. Use accessible media players and controls that can be operated using screen readers and keyboard navigation.
+
+Testing and Feedback: Conduct accessibility testing and user testing with people with disabilities to identify and address accessibility barriers in mobile applications and websites. Gather feedback from users and incorporate accessibility improvements based on their needs and experiences.
+
+By incorporating mobile accessibility best practices into the design and development process, you can create mobile applications and websites that are inclusive and accessible to users of all abilities, ensuring a positive user experience for everyone.
+
+
+
+
+
 
 
 
