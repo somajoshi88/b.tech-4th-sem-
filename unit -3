@@ -99,6 +99,13 @@ In summary, fetch() is a JavaScript function used to fetch data from a server. I
 
 
 what is promise in handling the respons
+
+A promise object has the following internal properties:
+
+state – This property can have the following values:
+pending: Initially when the executor function starts the execution.
+fulfilled: When the promise is resolved.
+rejected: When the promise is rejected
 A Promise in JavaScript is an object representing the eventual completion or failure of an asynchronous operation. It allows you to handle asynchronous operations more easily by providing a way to work with the result of an asynchronous operation once it completes, whether that result is successful or an error.
 
 In the context of handling the response from a fetch() request:
